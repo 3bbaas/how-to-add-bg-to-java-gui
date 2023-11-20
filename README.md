@@ -1,9 +1,12 @@
 ## How to add background to java GUI?
 
-- image we will use
+### Video
+[click here](https://drive.google.com/file/d/1GOyhSk4XijDkR_fddyjMUHSkddCIlILq/view?usp=sharing)
+
+- image we used it
 ![](36600.jpg)
 
-- Code i wrote it
+- Code i wrote it - file of code [here](Code.java)
 ```java
 
 import javax.swing.*;
@@ -27,5 +30,4 @@ public class Main extends JFrame {
         Main m = new Main();
     }
 }
-
 ``` 

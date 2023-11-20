@@ -20,24 +20,3 @@ public class Main extends JFrame {
         Main m = new Main();
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
